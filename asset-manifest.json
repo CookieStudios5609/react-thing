@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-thing/static/css/main.6accc7e1.css",
+    "main.js": "/react-thing/static/js/main.362da509.js",
+    "static/js/787.29d884f7.chunk.js": "/react-thing/static/js/787.29d884f7.chunk.js",
+    "index.html": "/react-thing/index.html",
+    "main.6accc7e1.css.map": "/react-thing/static/css/main.6accc7e1.css.map",
+    "main.362da509.js.map": "/react-thing/static/js/main.362da509.js.map",
+    "787.29d884f7.chunk.js.map": "/react-thing/static/js/787.29d884f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6accc7e1.css",
+    "static/js/main.362da509.js"
+  ]
+}
