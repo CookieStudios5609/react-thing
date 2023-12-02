@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.dropdown-menu a {
+  display: block;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  border: 2px solid black;
+}
+
+ul li {
+  font-weight: bolder;
+  padding: 5px;
+}
